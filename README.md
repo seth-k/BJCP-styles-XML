@@ -7,10 +7,10 @@ They've recently released a significant revision to their style guides, but so f
 
 ## Differences in the XML
 The new style guides added some extra standard paragraphs to the style descriptions as well as a Tags: section.
-The two new paragraphs are given the element tags <comparison> for "Style Comparison" and <entryinstructions> for
-"Entry Instructions" paragraphs.  The style's tags are in a comma-separated list in a <tags> element.
+The two new paragraphs are given the element tags &lt;comparison&gt; for "Style Comparison" and &lt;entryinstructions&gt;
+for "Entry Instructions" paragraphs.  The style's tags are in a comma-separated list in a &lt;tags&gt; element.
 
 The 2015 guidelines also renumbered all the styles from the 2008 version and added unnumbered sub-styles to a few styles 
-(eg. 21B American IPA). Since the style and sub-style formats are identical I've used the <subcategory> tags for both.
-For sub-styles the id attribute is the parent style's number followed by "-some-label" to make id unique for every entry.
-(Example: Black IPA (aka Cascadian Dark Ale) gets id="21B-black")
+(eg. 21B American IPA). Since the style and sub-style formats are identical I've used the &lt;subcategory&gt; tags for
+both. For sub-styles the id attribute is the parent style's number followed by "-some-label" to make id unique for
+every entry. (Example: Black IPA (aka Cascadian Dark Ale) gets id="21B-black")
