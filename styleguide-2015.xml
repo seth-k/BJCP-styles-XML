@@ -2297,6 +2297,11 @@ Release 2015
       </subcategory>
       <subcategory id="7C-pale">
         <name>Kellerbier: Pale Kellerbier</name>
+        <notes>
+          A very common seasonal summer beer brewed by many of the 
+          Munich area breweries and served in the beer gardens, where 
+          they are very popular.
+        </notes>
         <impression>
           A young, fresh Helles, so while still a malty, fully-attenuated Pils
           malt showcase, the hop character (aroma, flavor and bitterness) is
@@ -2390,6 +2395,12 @@ Release 2015
       </subcategory>
       <subcategory id="7C-amber">
         <name>Kellerbier: Amber Kellerbier</name>
+        <notes>
+          The original style of Kellerbier from the Franconia area of 
+          Germany. A much older style compared to the relatively more 
+          recent pale Helles-Style Kellerbier that is popular in
+          the Munich area today.
+        </notes>
         <impression>
           A young, unfiltered, and unpasteurized beer that is between a Helles
           and Märzen in color, spicier in the hops with greater attenuation.
@@ -6696,8 +6707,8 @@ Release 2015
           Smooth, medium-light to medium-bodied mouthfeel. Medium carbonation.
           Some smooth alcohol warming can be sensed in stronger versions.
         </mouthfeel>
-        <notes>
-          Entry Instructions: Entrant <u>must</u> specify a
+        <entryinstructions>
+          Entrant <u>must</u> specify a
           <strong>strength</strong> (session, standard, double); if no strength
           is specified, standard will be assumed. Entrant <u>must</u> specify
           specific <strong>type</strong> of Specialty IPA from the library of
@@ -6713,13 +6724,18 @@ Release 2015
           BJCP subcategory (e.g., session-strength American or English IPA) -
           except where an existing BJCP subcategory already exists for that
           style (e.g., double [American] IPA).
+        </entryinstructions>
+        <notes>
+          <strong>Currently Defined Types:</strong> 
+          <em>Black IPA, Brown IPA, White IPA, Rye IPA, Belgian IPA, Red IPA</em>
         </notes>
-        <types>
-          <em>Black IPA, Brown IPA, White IPA, Rye IPA, Belgian IPA, Red</em>
-        </types>
         <stats>
           <exceptions>
-            Variable by type
+            Variable by type. <br />
+            Strength classifications: <br />
+            Session – ABV: 3.0  – 5.0%<br />
+            Standard – ABV: 5.0  – 7.5%<br />
+            Double – ABV: 7.5 – 10.0%<br />
           </exceptions>
         </stats>
       </subcategory>
