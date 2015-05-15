@@ -6490,7 +6490,7 @@ Release 2015
           <strong>American</strong> - Bell’s Expedition Stout, Cigar City
           Marshal Zhukov’s Imperial Stout, Great Divide Yeti Imperial Stout,
           North Coast Old Rasputin Imperial Stout, Sierra Nevada Narwhal
-          Imperial Stout; <br /><strong>English</strong> - Courage Imperial
+          Imperial Stout; <strong>English</strong> - Courage Imperial
           Russian Stout, Le Coq Imperial Extra Double Stout, Samuel Smith
           Imperial Stout
         </examples>
@@ -6708,14 +6708,14 @@ Release 2015
           Some smooth alcohol warming can be sensed in stronger versions.
         </mouthfeel>
         <entryinstructions>
-          Entrant <u>must</u> specify a
+          Entrant <span class="underlined">must</span> specify a
           <strong>strength</strong> (session, standard, double); if no strength
-          is specified, standard will be assumed. Entrant <u>must</u> specify
+          is specified, standard will be assumed. Entrant <span class="underlined">must</span> specify
           specific <strong>type</strong> of Specialty IPA from the library of
           known types listed in the Style Guidelines, or as amended by the BJCP
           web site; or the entrant must describe the type of Specialty IPA and
           its key characteristics in comment form so judges will know what to
-          expect. Entrants <u>may</u> specify specific <strong>hop
+          expect. Entrants <span class="underlined">may</span> specify specific <strong>hop
           varieties</strong> used, if entrants feel that judges may not
           recognize the varietal characteristics of newer hops. <em>Entrants may
           specify a combination of defined IPA types (e.g., Black Rye IPA)
@@ -6731,11 +6731,12 @@ Release 2015
         </notes>
         <stats>
           <exceptions>
-            Variable by type. <br />
-            Strength classifications: <br />
-            Session – ABV: 3.0  – 5.0%<br />
-            Standard – ABV: 5.0  – 7.5%<br />
-            Double – ABV: 7.5 – 10.0%<br />
+            Variable by type.
+            Strength classifications: <ul>
+            <li>Session – ABV: 3.0 – 5.0%</li>
+            <li>Standard – ABV: 5.0 – 7.5%</li>
+            <li>Double – ABV: 7.5 – 10.0%</li>
+          </ul>
           </exceptions>
         </stats>
       </subcategory>
@@ -8554,7 +8555,7 @@ Release 2015
         </comparison>
         <examples>
           Allagash White, Blanche de Bruxelles, Celis White, Hoegaarden Wit,
-          Ommegang Witte, <br />St. Bernardus Witbier, Wittekerke
+          Ommegang Witte, St. Bernardus Witbier, Wittekerke
         </examples>
         <tags>
           standard-strength, pale-color, top-fermented, western-europe,
@@ -9221,7 +9222,7 @@ Release 2015
           Belgian Blond Ale.
         </comparison>
         <examples>
-          Achel 5° Blond, St. Bernardus <br />Extra 4, Westmalle Extra,
+          Achel 5° Blond, St. Bernardus Extra 4, Westmalle Extra,
           Westvleteren Blond
         </examples>
         <tags>
@@ -11616,10 +11617,10 @@ Release 2015
           is encouraged.
         </ingredients>
         <entryinstructions>
-          The entrant <strong>must</strong> specify the <u>type
-          of wood</u> used and the <u>char level</u>
+          The entrant <strong>must</strong> specify the <span class="underlined">type
+          of wood</span> used and the <span class="underlined">char level</span>
           (if charred). The entrant <strong>must</strong> specify the
-          <u>base style</u>; the base style can be either a
+          <span class="underlined">base style</span>; the base style can be either a
           classic BJCP style (i.e., a named subcategory) or may be a generic
           type of beer (e.g., porter, brown ale). If an unusual wood has been
           used, the entrant <strong>must</strong> supply a brief description of
@@ -11717,7 +11718,7 @@ Release 2015
           The entrant <strong>must</strong> specify the additional alcohol
           character, with information about the barrel if relevant to the
           finished flavor profile. The entrant <strong>must</strong> specify the
-          <u>base style</u>; the base style can be either a
+          <span class="underlined">base style</span>; the base style can be either a
           classic BJCP style (i.e., a named subcategory) or may be a generic
           type of beer (e.g., porter, brown ale). If an unusual wood or
           ingredient has been used, the entrant <strong>must</strong> supply a
@@ -13301,7 +13302,6 @@ Release 2015
           (WA), Farnum Hill Extra-Dry, Dry, and Farmhouse (NH),
           Wandering Aengus Oaked Dry (OR), Montana CiderWorks North
           Fork (MT), Bellwether Heritage (NY).
-          <br />
           [UK] Oliver's Traditional Dry, Hogan's Dry and Medium Dry,
           Henney's Dry and Vintage Still, Burrow Hill Medium, Aspall
           English Imperial.
