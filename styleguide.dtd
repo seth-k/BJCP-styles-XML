@@ -80,7 +80,7 @@ Revision: 1; 2004-09-02
 <!ELEMENT revision (#PCDATA)>
 <!ATTLIST revision number CDATA #REQUIRED>
 <!ELEMENT notes %inline;>
-<!ELEMENT subcategory (name, notes*, aroma?, appearance?, flavor?, mouthfeel?, impression?, history?, comments?, ingredients?, varieties?, stats?, examples?)>
+<!ELEMENT subcategory (name, notes*, aroma?, appearance?, flavor?, mouthfeel?, impression?, history?, comments?, ingredients?, varieties?, comparison?, entryinstructions?, stats?, examples?, tags?)>
 <!ATTLIST subcategory id CDATA #REQUIRED>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT aroma %inline;>
@@ -91,6 +91,9 @@ Revision: 1; 2004-09-02
 <!ELEMENT history %inline;>
 <!ELEMENT comments %inline;>
 <!ELEMENT ingredients %inline;>
+<!ELEMENT comparison %inline;>
+<!ELEMENT entryinstructions %inline;>
+<!ELEMENT tags %inline;>
 <!ELEMENT varieties %inline;>
 <!ELEMENT exceptions %inline;>
 <!ELEMENT stats (exceptions*, og?, fg?, ibu?, srm?, abv?)>
