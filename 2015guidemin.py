@@ -9,7 +9,7 @@ def normalize_whitespace(str):
 	return str
 	
 	
-input_filename = "styleguide-2015-with-intros.xml"
+input_filename = "styleguide-2015.xml"
 output_filename = "styleguide-2015-min.xml"
 tree = ET.parse(input_filename)
 
