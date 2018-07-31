@@ -3819,6 +3819,11 @@
         <examples>Ellezelloise Saison, Fant&#244;me Saison, Lefebvre Saison 1900, Saison Dupont Vieille Provision, Saison de Pipaix, Saison Regal, Saison Voisin, Boulevard Tank 7 Farmhouse Ale</examples>
         <tags>standard-strength, pale-color, top-fermented, western-europe, traditional-style, bitter</tags>
         <stats>
+          <exceptions>
+            ABV and SRM will fall within subranges by variation. 
+            SRM: 5 – 14 (pale), 15 – 22 (dark).
+            ABV: 3.5 – 5.0% (table) 5.0 – 7.0% (standard) 7.0 – 9.5% (super)
+          </exceptions>
           <og flexible="false">
             <low>1.048</low>
             <high>1.065</high>
@@ -3833,11 +3838,11 @@
           </ibu>
           <srm flexible="false">
             <low>5</low>
-            <high>14</high>
+            <high>22</high>
           </srm>
           <abv flexible="false">
             <low>3.5</low>
-            <high>5.0</high>
+            <high>9.5</high>
           </abv>
         </stats>
       </subcategory>
